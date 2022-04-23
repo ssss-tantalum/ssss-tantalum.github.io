@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Hugo &amp; GithubActions を使ってGitHubで完結するブログを作ってみた</title>
+      <link>https://ssss-tantalum.github.io/posts/hugo-githubactions-%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6github%E3%81%A7%E5%AE%8C%E7%B5%90%E3%81%99%E3%82%8B%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</link>
+      <pubDate>Sat, 23 Apr 2022 14:00:00 +0900</pubDate>
+      
+      <guid>https://ssss-tantalum.github.io/posts/hugo-githubactions-%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6github%E3%81%A7%E5%AE%8C%E7%B5%90%E3%81%99%E3%82%8B%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
+      <description>このブログの技術とかそのへんについてまとめ</description>
+    </item>
+    
+    <item>
       <title>このブログについて</title>
       <link>https://ssss-tantalum.github.io/about/</link>
       <pubDate>Sat, 23 Apr 2022 14:00:00 +0900</pubDate>
