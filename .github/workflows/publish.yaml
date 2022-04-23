@@ -16,7 +16,7 @@ jobs:
           POST_TITLE: ${{ github.event.issue.title }}
           POST_BODY: ${{ github.event.issue.body }}
         run: |
-          cat > "content/posts/${POST_TITLE.md}" << EOF
+          cat > "content/posts/${POST_TITLE}.md" << EOF
           ${POST_BODY}
           EOF
 
