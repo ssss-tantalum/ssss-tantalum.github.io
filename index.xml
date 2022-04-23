@@ -20,39 +20,12 @@
     </item>
     
     <item>
-      <title>Hello World</title>
-      <link>https://ssss-tantalum.github.io/posts/hello-world/</link>
-      <pubDate>Tue, 19 Apr 2022 23:12:09 +0900</pubDate>
-      
-      <guid>https://ssss-tantalum.github.io/posts/hello-world/</guid>
-      <description>This is my first post.</description>
-    </item>
-    
-    <item>
       <title>Issueのテスト</title>
       <link>https://ssss-tantalum.github.io/posts/github-issue-test/</link>
       <pubDate>Tue, 19 Apr 2022 23:12:09 +0900</pubDate>
       
       <guid>https://ssss-tantalum.github.io/posts/github-issue-test/</guid>
       <description>Issueから公開してみるテスト</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://ssss-tantalum.github.io/posts/test-on-local/</link>
-      <pubDate>Tue, 19 Apr 2022 23:12:09 +0900</pubDate>
-      
-      <guid>https://ssss-tantalum.github.io/posts/test-on-local/</guid>
-      <description>test dayo</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://ssss-tantalum.github.io/posts/test/</link>
-      <pubDate>Tue, 19 Apr 2022 23:12:09 +0900</pubDate>
-      
-      <guid>https://ssss-tantalum.github.io/posts/test/</guid>
-      <description>test dayo</description>
     </item>
     
   </channel>
