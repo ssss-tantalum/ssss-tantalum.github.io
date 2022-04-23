@@ -8,7 +8,17 @@
       <url>https://ssss-tantalum.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://ssss-tantalum.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ssss-tantalum.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 23 Apr 2022 15:49:00 +0900</lastBuildDate><atom:link href="https://ssss-tantalum.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, World!</title>
+      <link>https://ssss-tantalum.github.io/posts/hello-world/</link>
+      <pubDate>Sat, 23 Apr 2022 15:49:00 +0900</pubDate>
+      
+      <guid>https://ssss-tantalum.github.io/posts/hello-world/</guid>
+      <description>const message = &amp;#34;Hello, World!&amp;#34; console.log(message) </description>
+    </item>
+    
     <item>
       <title>このブログについて</title>
       <link>https://ssss-tantalum.github.io/about/</link>
