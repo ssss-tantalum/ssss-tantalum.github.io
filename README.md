@@ -1,3 +1,3 @@
-# ssss.tantalum
+# ssss.tantalum's personal blog
 
-Hello, World!
+[GitHub Pages](https://ssss-tantalum.github.io/)
