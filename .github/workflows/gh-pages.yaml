@@ -29,3 +29,4 @@ jobs:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           external_repository: ssss-tantalum/ssss-tantalum.github.io
           publish_branch: gh-pages
+          publish_dir: ./public
