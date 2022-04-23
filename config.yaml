@@ -1,8 +1,9 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://ssss-tantalum.github.io/"
 title: ssss.tantalum's blog
 paginate: 5
 theme: PaperMod
 
+enableEmoji: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
