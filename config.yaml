@@ -9,7 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics:
 
 minify:
   disableXML: true
@@ -94,7 +94,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/ssss-tantalum/ssss-tantalum.github.io/content"
+    URL: "https://github.com/ssss-tantalum/ssss-tantalum.github.io//tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
